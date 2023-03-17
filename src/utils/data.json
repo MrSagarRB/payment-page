@@ -1,0 +1,20 @@
+[
+  {
+    "days": "7",
+    "perDayPrice": "7000",
+    "totalSaveing": "700",
+    "totalAmount": "6300"
+  },
+  {
+    "days": "15",
+    "perDayPrice": "15000",
+    "totalSaveing": "2250",
+    "totalAmount": "6300"
+  },
+  {
+    "days": "30",
+    "perDayPrice": "3000",
+    "totalSaveing": "600",
+    "totalAmount": "24000"
+  }
+]
